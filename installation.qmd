@@ -11,8 +11,7 @@ Ensure that you have a version of Molecular Nodes that matches the version of Bl
 ::: callout-caution
 ## Blender Version 3.2
 
-Molecular Nodes is only compatible with Blender 3.2 & above.
-\
+Molecular Nodes is only compatible with Blender 3.2 & above.\
 \
 There are earlier versions of Molecular Nodes (\<0.7) which are compatible with Blender 3.1, but these are no longer being developed or maintained and it is highly recommended that you use the most recent Blender and Molecular Nodes.
 Details for each release are available on the releases page.
