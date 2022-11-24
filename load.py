@@ -68,7 +68,7 @@ def add_attribute(object, name, data, type = "FLOAT", domain = "POINT", add = Tr
         attribute.data.foreach_set('value', data)
         return True
     except:
-        # warnings.warn("Unable to create attribute: " + name, bpy.)
+        # warnings.warn(f"Unable to create attribute: {name}", bpy.)
         return None
 
 def create_molecule(mol_array, mol_name, center_molecule = False, del_solvent = False, include_bonds = True):
